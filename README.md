@@ -27,7 +27,7 @@ Various teams are building products on top of the Platform, including [Huly](htt
 ## Self-Hosting
 
 If you're primarily interested in self-hosting Huly without the intention to modify or contribute to its development, please use [huly-selfhost](https://github.com/hcengineering/huly-selfhost).
-This project offers a convenient method to host Huly using `docker`, designed for ease of use and quick setup. Explore this option to effortlessly enjoy Huly on your own server.
+Use this monorepo for platform development and local/dev-stack references; for an operational rollout that connects a Linux self-hosted deployment to macOS/Linux desktop clients and external systems, see [docs/guides/desktop-selfhost-rollout.en.md](./docs/guides/desktop-selfhost-rollout.en.md).
 
 ## Activity
 
